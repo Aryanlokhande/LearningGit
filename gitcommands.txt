@@ -4,4 +4,8 @@ git init
 git status
 git add filename
 git commit -m filename
+git stash 
+git stash pop
+git stash clear
+git restore --staged filename
 
